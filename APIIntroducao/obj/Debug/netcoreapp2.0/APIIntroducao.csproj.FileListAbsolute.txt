@@ -1,0 +1,11 @@
+C:\Users\rmferreira2\source\repos\APIIntroducao\APIIntroducao\bin\Debug\netcoreapp2.0\APIIntroducao.deps.json
+C:\Users\rmferreira2\source\repos\APIIntroducao\APIIntroducao\bin\Debug\netcoreapp2.0\APIIntroducao.runtimeconfig.json
+C:\Users\rmferreira2\source\repos\APIIntroducao\APIIntroducao\bin\Debug\netcoreapp2.0\APIIntroducao.runtimeconfig.dev.json
+C:\Users\rmferreira2\source\repos\APIIntroducao\APIIntroducao\bin\Debug\netcoreapp2.0\APIIntroducao.dll
+C:\Users\rmferreira2\source\repos\APIIntroducao\APIIntroducao\bin\Debug\netcoreapp2.0\APIIntroducao.pdb
+C:\Users\rmferreira2\source\repos\APIIntroducao\APIIntroducao\obj\Debug\netcoreapp2.0\APIIntroducao.csprojAssemblyReference.cache
+C:\Users\rmferreira2\source\repos\APIIntroducao\APIIntroducao\obj\Debug\netcoreapp2.0\APIIntroducao.csproj.CoreCompileInputs.cache
+C:\Users\rmferreira2\source\repos\APIIntroducao\APIIntroducao\obj\Debug\netcoreapp2.0\APIIntroducao.AssemblyInfoInputs.cache
+C:\Users\rmferreira2\source\repos\APIIntroducao\APIIntroducao\obj\Debug\netcoreapp2.0\APIIntroducao.AssemblyInfo.cs
+C:\Users\rmferreira2\source\repos\APIIntroducao\APIIntroducao\obj\Debug\netcoreapp2.0\APIIntroducao.dll
+C:\Users\rmferreira2\source\repos\APIIntroducao\APIIntroducao\obj\Debug\netcoreapp2.0\APIIntroducao.pdb
